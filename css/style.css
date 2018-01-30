@@ -1,5 +1,4 @@
 body{
-  color:#ffffff;
   background-color:white;
   font-family: courier;
 }
@@ -7,10 +6,7 @@ h3{
   color:black;
   font-size: 50px;
   font-family: courier;
-}
-.first-heading{
-  background-color: #F9ED32;
-}
+
 p{
   color:black;
 }
